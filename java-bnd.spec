@@ -3,7 +3,6 @@
 %bcond_without	javadoc		# don't build javadoc
 
 %define		srcname		bnd
-%include	/usr/lib/rpm/macros.java
 Summary:	BND Tool
 Name:		java-%{srcname}
 Version:	0.0.363
